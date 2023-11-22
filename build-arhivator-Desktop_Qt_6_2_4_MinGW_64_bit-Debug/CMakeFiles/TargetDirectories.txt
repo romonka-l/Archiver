@@ -1,0 +1,5 @@
+D:/archiver/build-arhivator-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/archivator.dir
+D:/archiver/build-arhivator-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+D:/archiver/build-arhivator-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+D:/archiver/build-arhivator-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/archivator_autogen_timestamp_deps.dir
+D:/archiver/build-arhivator-Desktop_Qt_6_2_4_MinGW_64_bit-Debug/CMakeFiles/archivator_autogen.dir
